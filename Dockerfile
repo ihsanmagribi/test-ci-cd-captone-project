@@ -1,3 +1,3 @@
 FROM  httpd
 
-COPY . C:\xampp\htdocs
+COPY . C:\xampp\htdocs\test-ci-cd-captone-project
